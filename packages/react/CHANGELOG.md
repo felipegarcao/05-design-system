@@ -1,5 +1,23 @@
 # @ignite-ui/react
 
+## 2.2.2
+
+### Patch Changes
+
+- Bump version
+
+## 2.2.1
+
+### Patch Changes
+
+- Fix ref forwarding to input
+
+## 2.2.0
+
+### Minor Changes
+
+- Add the possibility to forward ref to text input
+
 ## 2.1.5
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "@ignite-ui/react",
-  "version": "2.1.5",
+  "version": "2.2.2",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
