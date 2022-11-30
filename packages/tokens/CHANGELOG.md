@@ -1,4 +1,4 @@
-# @ignite-ui/tokens
+# @upp-presentatios/tokens
 
 ## 1.1.0
 

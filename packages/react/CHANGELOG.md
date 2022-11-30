@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @upp-presentatios/react
 
 ## 2.2.2
 

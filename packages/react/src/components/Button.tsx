@@ -36,10 +36,10 @@ export const Button = styled('button', {
     variant: {
       primary: {
         color: '$white',
-        background: '$ignite500',
+        background: '$benef100',
 
         '&:not(:disabled):hover': {
-          background: '$ignite300',
+          background: '$benef75',
         },
 
         '&:disabled': {
@@ -48,11 +48,11 @@ export const Button = styled('button', {
       },
 
       secondary: {
-        color: '$ignite300',
-        border: '2px solid $ignite500',
+        color: '$gray100',
+        border: '2px solid $benef50',
 
         '&:not(:disabled):hover': {
-          background: '$ignite500',
+          background: '$benef50',
           color: '$white',
         },
 
@@ -64,6 +64,7 @@ export const Button = styled('button', {
 
       tertiary: {
         color: '$gray100',
+        backgroundColor: '$error100',
 
         '&:not(:disabled):hover': {
           color: '$white',

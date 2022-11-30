@@ -17,7 +17,7 @@ export const CheckboxContainer = styled(Checkbox.Root, {
   border: '2px solid $gray900',
 
   '&[data-state="checked"]': {
-    backgroundColor: '$ignite300',
+    backgroundColor: '$benef100',
   },
 
   '&:focus, &[data-state="checked"]': {
