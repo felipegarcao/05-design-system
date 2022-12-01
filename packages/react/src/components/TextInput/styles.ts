@@ -1,10 +1,10 @@
 import { styled } from '../../styles'
 
 export const TextInputContainer = styled('div', {
-  backgroundColor: '$gray900',
+  backgroundColor: '$white',
   borderRadius: '$sm',
   boxSizing: 'border-box',
-  border: '2px solid $gray900',
+  // border: '2px solid $benef100',
   display: 'flex',
   alignItems: 'center',
 
@@ -20,7 +20,7 @@ export const TextInputContainer = styled('div', {
   },
 
   '&:has(input:focus)': {
-    borderColor: '$ignite300',
+    border: '2px solid $benef100',
   },
 
   '&:has(input:disabled)': {

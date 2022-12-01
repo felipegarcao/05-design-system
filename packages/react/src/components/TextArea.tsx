@@ -2,7 +2,7 @@ import { ComponentProps } from 'react'
 import { styled } from '../styles'
 
 export const TextArea = styled('textarea', {
-  backgroundColor: '$gray900',
+  backgroundColor: '$white',
   padding: '$3 $4',
   borderRadius: '$sm',
   boxSizing: 'border-box',
@@ -10,7 +10,7 @@ export const TextArea = styled('textarea', {
 
   fontFamily: '$default',
   fontSize: '$sm',
-  color: '$white',
+  color: '$gray600',
   fontWeight: '$regular',
   resize: 'vertical',
   minHeight: 80,

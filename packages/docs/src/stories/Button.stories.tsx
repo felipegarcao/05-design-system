@@ -57,12 +57,23 @@ export const Small: StoryObj<ButtonProps> = {
   },
 }
 
-export const WithIcon: StoryObj<ButtonProps> = {
+export const WithIconRight: StoryObj<ButtonProps> = {
   args: {
     children: (
       <>
         Próximo passo
         <ArrowRight weight="bold" />
+      </>
+    ),
+  },
+}
+
+export const WithIconLeft: StoryObj<ButtonProps> = {
+  args: {
+    children: (
+      <>
+        <ArrowRight weight="bold" />
+        Próximo passo
       </>
     ),
   },
