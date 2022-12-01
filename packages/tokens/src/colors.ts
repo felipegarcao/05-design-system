@@ -38,4 +38,6 @@ export const colors = {
   gray700: "#29292E",
   gray800: "#202024",
   gray900: "#121214",
+
+  test: '#dfdfdf'
 };

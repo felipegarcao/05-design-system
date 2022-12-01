@@ -1,5 +1,11 @@
 # @upp-presentatios/react
 
+## 3.0.0
+
+### Major Changes
+
+- 0a67e04: Add display name to all components
+
 ## 2.2.2
 
 ### Patch Changes
