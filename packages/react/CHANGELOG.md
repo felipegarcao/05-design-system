@@ -1,5 +1,11 @@
 # @upp-presentatios/react
 
+## 3.1.0
+
+### Minor Changes
+
+- b5d8fa9: Default Pallete Colors Unimed
+
 ## 3.0.0
 
 ### Major Changes
