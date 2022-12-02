@@ -1,5 +1,15 @@
 # @upp-design-system/react
 
+## 4.0.0
+
+### Major Changes
+
+- a811dd3: rename
+
+### Minor Changes
+
+- b5d8fa9: Default Pallete Colors Unimed
+
 ## 3.0.0
 
 ### Major Changes

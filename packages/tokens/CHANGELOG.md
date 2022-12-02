@@ -1,5 +1,11 @@
 # @upp-design-system/tokens
 
+## 2.0.0
+
+### Major Changes
+
+- a811dd3: rename
+
 ## 1.2.0
 
 ### Minor Changes
