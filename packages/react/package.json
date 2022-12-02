@@ -1,5 +1,5 @@
 {
-  "name": "@upp-presentatios/react",
+  "name": "@upp-design-system/react",
   "version": "3.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@upp-presentatios/eslint-config": "*",
-    "@upp-presentatios/tokens": "*",
-    "@upp-presentatios/ts-config": "*",
+    "@upp-design-system/eslint-config": "*",
+    "@upp-design-system/tokens": "*",
+    "@upp-design-system/ts-config": "*",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",

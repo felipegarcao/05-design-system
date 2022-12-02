@@ -1,4 +1,4 @@
-# @upp-presentatios/react
+# @upp-design-system/react
 
 ## 3.0.0
 

@@ -1,4 +1,4 @@
 {
-  "extends": "@upp-presentatios/ts-config/base.json",
+  "extends": "@upp-design-system/ts-config/base.json",
   "include": ["src"]
 }

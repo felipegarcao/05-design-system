@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@upp-presentatios/react'
+import { Box, Text, TextArea, TextAreaProps } from '@upp-design-system/react'
 
 export default {
   title: 'Form/Text Area',

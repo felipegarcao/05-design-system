@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@upp-presentatios/tokens'
+} from '@upp-design-system/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 

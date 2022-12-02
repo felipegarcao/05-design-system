@@ -1,4 +1,4 @@
-import { colors } from "@upp-presentatios/tokens";
+import { colors } from "@upp-design-system/tokens";
 import { getContrast } from "polished";
 
 export function ColorsGrid() {

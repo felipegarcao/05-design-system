@@ -1,4 +1,4 @@
-# @upp-presentatios/tokens
+# @upp-design-system/tokens
 
 ## 1.2.0
 
