@@ -8,10 +8,14 @@
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=!docs && changeset publish"
+    "release": "turbo run build --filter=@upp-design-system/docs && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.25.0",
+    "@types/styled-components": "^5.1.26",
     "turbo": "^1.5.5"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.6"
   }
 }

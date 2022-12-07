@@ -1,5 +1,11 @@
 # @upp-design-system/react
 
+## 4.0.0
+
+### Major Changes
+
+- add component table
+
 ## 3.0.0
 
 ### Major Changes
