@@ -1,0 +1,2 @@
+import{A as t}from"./index.a7583be3.js";import"./index.ff92be40.js";import"./iframe.87c0dc43.js";import"./index.e0a91252.js";import"./jsx-runtime.9a6af6ba.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipegarcao.png",alt:"Luis Felipe"},argTypes:{src:{control:{type:"text"}}}},e={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{e as Primary,c as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.3be74c61.js.map
